@@ -1,0 +1,15 @@
+{
+  "name": "test-botu",
+  "version": "0.0.1",
+  "description": "YouTube test",
+  "main": "crew.js",
+  "scripts": {
+    "test": "node crew.js"
+  },
+  "author": "Crew",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "moment": "^2.29.4"
+  }
+}
